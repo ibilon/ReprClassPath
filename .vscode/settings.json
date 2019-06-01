@@ -1,0 +1,17 @@
+{
+	"haxe.configurations": [
+		{
+			"label": "build",
+			"args": [
+				"--cwd",
+				"build",
+				"project.hxml"
+			]
+		}
+	],
+	"haxe.displayServer": {
+		"arguments": [
+			"-v"
+		]
+	}
+}
